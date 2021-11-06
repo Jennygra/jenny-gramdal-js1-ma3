@@ -17,7 +17,7 @@ async function getGames() {
             const rating = data[i].rating;
             const tags = data[i].tags; 
 
-            if (i === 7) {
+            if (i === 8) {
                 break; 
             }
 
